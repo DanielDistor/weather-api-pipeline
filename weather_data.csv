@@ -1,0 +1,141 @@
+zip_code,city,region,date,max_temp_f,min_temp_f,condition
+90045,Los Angeles,California,2026-04-13,65.7,51.4,Sunny
+90045,Los Angeles,California,2026-04-14,68.5,49.3,Sunny
+90045,Los Angeles,California,2026-04-15,61.7,56.1,Mist
+90045,Los Angeles,California,2026-04-16,65.3,57.4,Overcast 
+90045,Los Angeles,California,2026-04-17,69.9,60.1,Sunny
+90045,Los Angeles,California,2026-04-18,70.1,62.5,Sunny
+90045,Los Angeles,California,2026-04-19,68.5,61.2,Sunny
+10001,New York,New York,2026-04-14,87.3,59.5,Sunny
+10001,New York,New York,2026-04-15,84.4,54.3,Patchy rain nearby
+10001,New York,New York,2026-04-16,85.1,52.2,Overcast 
+10001,New York,New York,2026-04-17,75.6,64.0,Moderate rain
+10001,New York,New York,2026-04-18,60.8,52.8,Patchy rain nearby
+10001,New York,New York,2026-04-19,68.2,51.9,Patchy rain nearby
+10001,New York,New York,2026-04-20,52.8,43.5,Overcast 
+60601,Chicago,Illinois,2026-04-14,74.5,49.5,Moderate rain
+60601,Chicago,Illinois,2026-04-15,71.1,61.7,Heavy rain
+60601,Chicago,Illinois,2026-04-16,51.1,39.0,Moderate rain
+60601,Chicago,Illinois,2026-04-17,70.1,37.4,Partly Cloudy 
+60601,Chicago,Illinois,2026-04-18,68.5,41.8,Patchy rain nearby
+60601,Chicago,Illinois,2026-04-19,49.4,39.1,Sunny
+60601,Chicago,Illinois,2026-04-20,51.5,40.4,Sunny
+98101,Seattle,Washington,2026-04-13,53.2,44.6,Patchy rain nearby
+98101,Seattle,Washington,2026-04-14,47.7,40.9,Moderate rain
+98101,Seattle,Washington,2026-04-15,46.8,38.1,Moderate rain
+98101,Seattle,Washington,2026-04-16,50.7,39.2,Cloudy 
+98101,Seattle,Washington,2026-04-17,52.1,37.8,Patchy rain nearby
+98101,Seattle,Washington,2026-04-18,62.6,35.8,Sunny
+98101,Seattle,Washington,2026-04-19,50.2,44.1,Moderate rain
+33101,Miami,Florida,2026-04-14,81.9,68.4,Cloudy 
+33101,Miami,Florida,2026-04-15,74.5,70.3,Overcast 
+33101,Miami,Florida,2026-04-16,73.4,70.0,Overcast 
+33101,Miami,Florida,2026-04-17,79.9,71.4,Patchy rain nearby
+33101,Miami,Florida,2026-04-18,80.7,76.0,Patchy rain nearby
+33101,Miami,Florida,2026-04-19,80.9,76.4,Partly Cloudy 
+33101,Miami,Florida,2026-04-20,81.3,76.3,Sunny
+77001,Houston,Texas,2026-04-14,83.5,70.2,Overcast 
+77001,Houston,Texas,2026-04-15,82.6,69.6,Overcast 
+77001,Houston,Texas,2026-04-16,86.0,69.8,Cloudy 
+77001,Houston,Texas,2026-04-17,86.0,69.4,Partly Cloudy 
+77001,Houston,Texas,2026-04-18,80.1,62.1,Patchy rain nearby
+77001,Houston,Texas,2026-04-19,73.4,59.0,Cloudy 
+77001,Houston,Texas,2026-04-20,66.3,60.7,Patchy rain nearby
+85001,Phoenix,Arizona,2026-04-13,85.1,63.1,Sunny
+85001,Phoenix,Arizona,2026-04-14,81.1,54.9,Sunny
+85001,Phoenix,Arizona,2026-04-15,86.9,57.4,Sunny
+85001,Phoenix,Arizona,2026-04-16,80.2,59.4,Overcast 
+85001,Phoenix,Arizona,2026-04-17,79.0,61.7,Sunny
+85001,Phoenix,Arizona,2026-04-18,80.8,62.5,Partly Cloudy 
+85001,Phoenix,Arizona,2026-04-19,88.4,68.4,Sunny
+19101,Philadelphia,Pennsylvania,2026-04-14,90.0,59.9,Sunny
+19101,Philadelphia,Pennsylvania,2026-04-15,89.6,67.6,Sunny
+19101,Philadelphia,Pennsylvania,2026-04-16,84.4,66.0,Partly Cloudy 
+19101,Philadelphia,Pennsylvania,2026-04-17,74.1,65.7,Patchy rain nearby
+19101,Philadelphia,Pennsylvania,2026-04-18,73.5,58.0,Patchy rain nearby
+19101,Philadelphia,Pennsylvania,2026-04-19,64.7,52.5,Patchy rain nearby
+19101,Philadelphia,Pennsylvania,2026-04-20,55.2,43.3,Partly Cloudy 
+78201,San Antonio,Texas,2026-04-14,88.7,70.7,Patchy rain nearby
+78201,San Antonio,Texas,2026-04-15,83.3,68.9,Overcast 
+78201,San Antonio,Texas,2026-04-16,83.6,67.8,Overcast 
+78201,San Antonio,Texas,2026-04-17,89.8,68.5,Partly Cloudy 
+78201,San Antonio,Texas,2026-04-18,75.0,57.3,Patchy rain nearby
+78201,San Antonio,Texas,2026-04-19,66.3,55.0,Patchy rain nearby
+78201,San Antonio,Texas,2026-04-20,59.5,55.8,Patchy rain nearby
+92101,San Diego,California,2026-04-13,65.8,56.1,Moderate rain
+92101,San Diego,California,2026-04-14,72.1,52.5,Sunny
+92101,San Diego,California,2026-04-15,65.7,56.8,Partly Cloudy 
+92101,San Diego,California,2026-04-16,64.6,58.5,Cloudy 
+92101,San Diego,California,2026-04-17,71.5,59.6,Sunny
+92101,San Diego,California,2026-04-18,70.1,62.6,Overcast 
+92101,San Diego,California,2026-04-19,68.0,61.0,Sunny
+75201,Dallas,Texas,2026-04-14,87.4,71.1,Overcast 
+75201,Dallas,Texas,2026-04-15,77.3,67.6,Overcast 
+75201,Dallas,Texas,2026-04-16,84.7,68.0,Overcast 
+75201,Dallas,Texas,2026-04-17,77.0,66.6,Patchy rain nearby
+75201,Dallas,Texas,2026-04-18,67.4,56.6,Patchy rain nearby
+75201,Dallas,Texas,2026-04-19,71.2,50.9,Partly Cloudy 
+75201,Dallas,Texas,2026-04-20,57.2,54.8,Patchy rain nearby
+95101,San Jose,California,2026-04-13,68.9,51.3,Patchy rain nearby
+95101,San Jose,California,2026-04-14,61.9,45.4,Partly Cloudy 
+95101,San Jose,California,2026-04-15,61.9,48.4,Cloudy 
+95101,San Jose,California,2026-04-16,66.2,43.5,Sunny
+95101,San Jose,California,2026-04-17,69.3,42.1,Sunny
+95101,San Jose,California,2026-04-18,72.4,42.5,Sunny
+95101,San Jose,California,2026-04-19,67.2,46.9,Patchy rain nearby
+78701,Austin,Texas,2026-04-14,88.0,70.3,Partly Cloudy 
+78701,Austin,Texas,2026-04-15,81.1,67.8,Overcast 
+78701,Austin,Texas,2026-04-16,84.0,68.4,Overcast 
+78701,Austin,Texas,2026-04-17,88.9,67.9,Patchy rain nearby
+78701,Austin,Texas,2026-04-18,71.3,56.5,Patchy rain nearby
+78701,Austin,Texas,2026-04-19,61.3,54.3,Patchy rain nearby
+78701,Austin,Texas,2026-04-20,56.7,54.5,Patchy rain nearby
+30301,Atlanta,Georgia,2026-04-14,86.7,57.2,Sunny
+30301,Atlanta,Georgia,2026-04-15,86.2,62.4,Sunny
+30301,Atlanta,Georgia,2026-04-16,81.0,63.7,Partly Cloudy 
+30301,Atlanta,Georgia,2026-04-17,88.7,65.1,Sunny
+30301,Atlanta,Georgia,2026-04-18,87.6,66.4,Sunny
+30301,Atlanta,Georgia,2026-04-19,71.7,58.2,Partly Cloudy 
+30301,Atlanta,Georgia,2026-04-20,74.6,51.5,Partly Cloudy 
+28201,Charlotte,North Carolina,2026-04-14,85.3,57.7,Sunny
+28201,Charlotte,North Carolina,2026-04-15,85.3,66.2,Sunny
+28201,Charlotte,North Carolina,2026-04-16,84.0,66.6,Partly Cloudy 
+28201,Charlotte,North Carolina,2026-04-17,84.9,62.6,Sunny
+28201,Charlotte,North Carolina,2026-04-18,89.8,63.2,Sunny
+28201,Charlotte,North Carolina,2026-04-19,79.0,57.6,Partly Cloudy 
+28201,Charlotte,North Carolina,2026-04-20,69.9,47.9,Partly Cloudy 
+80201,Denver,Colorado,2026-04-13,75.2,44.8,Sunny
+80201,Denver,Colorado,2026-04-14,58.8,46.0,Overcast 
+80201,Denver,Colorado,2026-04-15,69.1,38.3,Sunny
+80201,Denver,Colorado,2026-04-16,73.4,41.9,Overcast 
+80201,Denver,Colorado,2026-04-17,51.6,25.8,Moderate rain
+80201,Denver,Colorado,2026-04-18,53.4,25.1,Sunny
+80201,Denver,Colorado,2026-04-19,66.1,37.1,Sunny
+37201,Nashville,Tennessee,2026-04-14,88.9,63.0,Sunny
+37201,Nashville,Tennessee,2026-04-15,83.1,62.8,Partly Cloudy 
+37201,Nashville,Tennessee,2026-04-16,72.5,64.6,Moderate rain
+37201,Nashville,Tennessee,2026-04-17,83.1,57.1,Patchy rain nearby
+37201,Nashville,Tennessee,2026-04-18,79.9,57.6,Patchy rain nearby
+37201,Nashville,Tennessee,2026-04-19,61.0,48.5,Sunny
+37201,Nashville,Tennessee,2026-04-20,64.3,44.3,Partly Cloudy 
+97201,Portland,Oregon,2026-04-13,56.3,45.1,Patchy rain nearby
+97201,Portland,Oregon,2026-04-14,48.9,43.7,Patchy rain nearby
+97201,Portland,Oregon,2026-04-15,45.7,35.4,Heavy rain
+97201,Portland,Oregon,2026-04-16,50.4,37.0,Moderate rain
+97201,Portland,Oregon,2026-04-17,54.1,38.9,Patchy rain nearby
+97201,Portland,Oregon,2026-04-18,63.0,40.9,Partly Cloudy 
+97201,Portland,Oregon,2026-04-19,49.7,44.1,Moderate rain
+89101,Las Vegas,Nevada,2026-04-13,70.5,53.4,Sunny
+89101,Las Vegas,Nevada,2026-04-14,76.5,49.1,Sunny
+89101,Las Vegas,Nevada,2026-04-15,79.5,50.9,Sunny
+89101,Las Vegas,Nevada,2026-04-16,73.2,48.7,Partly Cloudy 
+89101,Las Vegas,Nevada,2026-04-17,66.8,43.1,Sunny
+89101,Las Vegas,Nevada,2026-04-18,72.6,52.1,Partly Cloudy 
+89101,Las Vegas,Nevada,2026-04-19,81.8,54.6,Sunny
+63101,Saint Louis,Missouri,2026-04-14,90.5,66.6,Sunny
+63101,Saint Louis,Missouri,2026-04-15,75.7,66.6,Moderate rain
+63101,Saint Louis,Missouri,2026-04-16,84.4,64.4,Moderate rain
+63101,Saint Louis,Missouri,2026-04-17,79.3,59.3,Patchy rain nearby
+63101,Saint Louis,Missouri,2026-04-18,71.3,49.6,Patchy rain nearby
+63101,Saint Louis,Missouri,2026-04-19,60.7,41.7,Sunny
+63101,Saint Louis,Missouri,2026-04-20,63.2,42.7,Sunny
