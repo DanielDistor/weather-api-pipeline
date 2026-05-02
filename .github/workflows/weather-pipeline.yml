@@ -1,0 +1,35 @@
+name: Weather Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'  # Every day at 8am UTC
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weather pipeline
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: python weather.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weather_data.csv
+          git commit --allow-empty -m "chore: automated weather fetch $(date +'%Y-%m-%d')"
+          git push
