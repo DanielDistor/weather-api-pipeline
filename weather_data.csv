@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-10-05,91.9,80.4,Sunny
-90045,Los Angeles,California,2026-10-06,88.2,78.8,Sunny
-90045,Los Angeles,California,2026-10-07,85.6,75.0,Sunny
-10001,New York,New York,2026-10-05,70.2,57.6,Sunny
-10001,New York,New York,2026-10-06,63.9,49.2,Sunny
-10001,New York,New York,2026-10-07,70.9,53.3,Sunny
-60601,Chicago,Illinois,2026-10-05,63.3,57.8,Sunny
-60601,Chicago,Illinois,2026-10-06,71.0,54.3,Sunny
-60601,Chicago,Illinois,2026-10-07,74.1,61.6,Overcast
-98101,Seattle,Washington,2026-10-05,72.7,53.8,Sunny
-98101,Seattle,Washington,2026-10-06,69.3,53.2,Overcast
-98101,Seattle,Washington,2026-10-07,70.7,50.7,Sunny
-33101,Miami,Florida,2026-10-05,86.5,82.7,Partly Cloudy
-33101,Miami,Florida,2026-10-06,86.4,81.6,Sunny
-33101,Miami,Florida,2026-10-07,86.7,81.4,Patchy rain nearby
-77001,Houston,Texas,2026-10-05,83.8,71.7,Patchy rain nearby
-77001,Houston,Texas,2026-10-06,88.5,73.8,Sunny
-77001,Houston,Texas,2026-10-07,89.4,74.0,Sunny
-85001,Phoenix,Arizona,2026-10-05,95.2,82.7,Sunny
-85001,Phoenix,Arizona,2026-10-06,96.1,83.8,Sunny
-85001,Phoenix,Arizona,2026-10-07,98.0,86.3,Sunny
-19101,Philadelphia,Pennsylvania,2026-10-05,69.7,55.5,Sunny
-19101,Philadelphia,Pennsylvania,2026-10-06,62.6,48.4,Sunny
-19101,Philadelphia,Pennsylvania,2026-10-07,71.9,50.3,Sunny
-78201,San Antonio,Texas,2026-10-05,85.0,70.7,Sunny
-78201,San Antonio,Texas,2026-10-06,86.4,68.2,Sunny
-78201,San Antonio,Texas,2026-10-07,87.8,72.2,Sunny
-92101,San Diego,California,2026-10-05,87.8,79.4,Sunny
-92101,San Diego,California,2026-10-06,82.4,77.1,Sunny
-92101,San Diego,California,2026-10-07,80.0,75.6,Sunny
-75201,Dallas,Texas,2026-10-05,82.7,70.9,Sunny
-75201,Dallas,Texas,2026-10-06,85.0,68.1,Sunny
-75201,Dallas,Texas,2026-10-07,87.5,70.1,Sunny
-95101,San Jose,California,2026-10-05,97.2,67.8,Sunny
-95101,San Jose,California,2026-10-06,97.2,68.9,Sunny
-95101,San Jose,California,2026-10-07,96.3,67.2,Sunny
-78701,Austin,Texas,2026-10-05,85.2,70.9,Sunny
-78701,Austin,Texas,2026-10-06,87.9,70.8,Sunny
-78701,Austin,Texas,2026-10-07,88.9,73.4,Sunny
-30301,Atlanta,Georgia,2026-10-05,80.5,69.7,Patchy rain nearby
-30301,Atlanta,Georgia,2026-10-06,81.7,65.7,Sunny
-30301,Atlanta,Georgia,2026-10-07,82.8,63.3,Sunny
-28201,Charlotte,North Carolina,2026-10-05,79.1,65.2,Overcast
-28201,Charlotte,North Carolina,2026-10-06,77.6,56.5,Sunny
-28201,Charlotte,North Carolina,2026-10-07,80.8,59.4,Sunny
-80201,Denver,Colorado,2026-10-05,85.1,59.0,Sunny
-80201,Denver,Colorado,2026-10-06,84.6,62.0,Sunny
-80201,Denver,Colorado,2026-10-07,83.0,58.1,Sunny
-37201,Nashville,Tennessee,2026-10-05,81.0,59.4,Sunny
-37201,Nashville,Tennessee,2026-10-06,82.2,56.7,Sunny
-37201,Nashville,Tennessee,2026-10-07,86.3,65.2,Sunny
-97201,Portland,Oregon,2026-10-05,80.1,57.8,Sunny
-97201,Portland,Oregon,2026-10-06,75.2,55.0,Sunny
-97201,Portland,Oregon,2026-10-07,77.1,52.4,Sunny
-89101,Las Vegas,Nevada,2026-10-05,92.6,70.4,Sunny
-89101,Las Vegas,Nevada,2026-10-06,93.4,71.9,Sunny
-89101,Las Vegas,Nevada,2026-10-07,95.6,74.3,Sunny
-63101,Saint Louis,Missouri,2026-10-05,77.8,55.2,Sunny
-63101,Saint Louis,Missouri,2026-10-06,81.6,57.1,Sunny
-63101,Saint Louis,Missouri,2026-10-07,88.0,62.4,Sunny
+90045,Los Angeles,California,2026-10-06,89.3,79.8,Sunny
+90045,Los Angeles,California,2026-10-07,85.7,75.8,Sunny
+90045,Los Angeles,California,2026-10-08,83.3,74.7,Sunny
+10001,New York,New York,2026-10-06,63.8,50.4,Sunny
+10001,New York,New York,2026-10-07,70.3,53.6,Sunny
+10001,New York,New York,2026-10-08,77.8,58.1,Sunny
+60601,Chicago,Illinois,2026-10-06,71.7,55.5,Sunny
+60601,Chicago,Illinois,2026-10-07,74.2,60.5,Sunny
+60601,Chicago,Illinois,2026-10-08,65.3,59.8,Sunny
+98101,Seattle,Washington,2026-10-06,69.7,55.2,Overcast
+98101,Seattle,Washington,2026-10-07,71.9,50.7,Sunny
+98101,Seattle,Washington,2026-10-08,74.8,52.0,Overcast
+33101,Miami,Florida,2026-10-06,86.8,81.9,Patchy rain nearby
+33101,Miami,Florida,2026-10-07,86.8,81.4,Partly Cloudy
+33101,Miami,Florida,2026-10-08,86.1,81.4,Partly Cloudy
+77001,Houston,Texas,2026-10-06,88.6,72.4,Partly Cloudy
+77001,Houston,Texas,2026-10-07,90.8,75.5,Sunny
+77001,Houston,Texas,2026-10-08,91.0,77.1,Sunny
+85001,Phoenix,Arizona,2026-10-06,95.9,83.5,Sunny
+85001,Phoenix,Arizona,2026-10-07,98.3,86.1,Sunny
+85001,Phoenix,Arizona,2026-10-08,99.6,86.0,Sunny
+19101,Philadelphia,Pennsylvania,2026-10-06,62.8,49.5,Sunny
+19101,Philadelphia,Pennsylvania,2026-10-07,70.7,50.0,Sunny
+19101,Philadelphia,Pennsylvania,2026-10-08,76.8,54.7,Sunny
+78201,San Antonio,Texas,2026-10-06,87.0,69.4,Sunny
+78201,San Antonio,Texas,2026-10-07,88.3,70.3,Sunny
+78201,San Antonio,Texas,2026-10-08,88.9,71.4,Sunny
+92101,San Diego,California,2026-10-06,84.9,77.5,Sunny
+92101,San Diego,California,2026-10-07,80.6,75.7,Sunny
+92101,San Diego,California,2026-10-08,80.3,74.9,Sunny
+75201,Dallas,Texas,2026-10-06,85.1,68.5,Sunny
+75201,Dallas,Texas,2026-10-07,86.2,69.8,Sunny
+75201,Dallas,Texas,2026-10-08,88.1,70.8,Sunny
+95101,San Jose,California,2026-10-06,98.1,67.9,Sunny
+95101,San Jose,California,2026-10-07,96.5,67.2,Sunny
+95101,San Jose,California,2026-10-08,94.4,64.9,Sunny
+78701,Austin,Texas,2026-10-06,87.8,70.8,Sunny
+78701,Austin,Texas,2026-10-07,89.8,70.9,Sunny
+78701,Austin,Texas,2026-10-08,90.4,71.9,Sunny
+30301,Atlanta,Georgia,2026-10-06,81.1,63.7,Sunny
+30301,Atlanta,Georgia,2026-10-07,83.1,62.6,Sunny
+30301,Atlanta,Georgia,2026-10-08,87.8,65.2,Sunny
+28201,Charlotte,North Carolina,2026-10-06,76.1,54.7,Sunny
+28201,Charlotte,North Carolina,2026-10-07,80.1,56.7,Sunny
+28201,Charlotte,North Carolina,2026-10-08,85.1,61.8,Sunny
+80201,Denver,Colorado,2026-10-06,83.6,61.7,Overcast
+80201,Denver,Colorado,2026-10-07,80.6,60.7,Sunny
+80201,Denver,Colorado,2026-10-08,81.9,57.9,Sunny
+37201,Nashville,Tennessee,2026-10-06,81.4,55.7,Sunny
+37201,Nashville,Tennessee,2026-10-07,85.6,62.9,Sunny
+37201,Nashville,Tennessee,2026-10-08,88.1,64.0,Sunny
+97201,Portland,Oregon,2026-10-06,76.9,56.2,Sunny
+97201,Portland,Oregon,2026-10-07,78.4,53.7,Sunny
+97201,Portland,Oregon,2026-10-08,79.9,54.8,Sunny
+89101,Las Vegas,Nevada,2026-10-06,92.8,69.3,Sunny
+89101,Las Vegas,Nevada,2026-10-07,95.7,72.5,Sunny
+89101,Las Vegas,Nevada,2026-10-08,95.7,73.2,Sunny
+63101,Saint Louis,Missouri,2026-10-06,80.8,57.5,Sunny
+63101,Saint Louis,Missouri,2026-10-07,87.1,61.3,Sunny
+63101,Saint Louis,Missouri,2026-10-08,82.5,64.1,Sunny
